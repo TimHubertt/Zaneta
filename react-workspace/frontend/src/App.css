@@ -1,0 +1,29 @@
+.bg-color{
+  height: 100vh;
+  background: #212529;
+
+}
+
+.custom-navbar{
+  border-bottom : 1px solid #606c76;
+}
+
+.foot{
+  width: 100%;
+  position : absolute;
+  bottom: 0;
+  border-top : 1px solid #606c76;
+  text-align: center;
+  color: white;
+  line-height : 25px;
+}
+
+.card-body::-webkit-scrollbar {
+  width: 8px;
+  background: #18181b;
+}
+
+.card-body::-webkit-scrollbar-thumb {
+  background: #333;
+  border-radius: 4px;
+}
